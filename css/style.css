@@ -20,7 +20,7 @@ a {
 
 
 header{
-    background-image: url(/img/bg.png);
+    background-image: url(../img/bg.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: cover;
@@ -103,8 +103,8 @@ header{
     color: #fff;
     border-radius: 3rem;
     margin: 0.6em 0;
-    padding: 0.5em 0.7em;
-    width: 35%;
+    padding: 0.5em 0.65em;
+    width: 40%;
     text-align: center;
 }
 
