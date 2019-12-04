@@ -64,7 +64,7 @@ header{
 }
 
 .active {
-    background-color: rgb(43, 116, 199);
+    border: 1px solid rgba(65, 61, 61, .81)
     font-size: 1.5rem;
     font-weight: 500;
     color: #fff;
@@ -72,7 +72,10 @@ header{
     margin: 0 0.4em;
     padding: 0.4em 0.9em;
 }
-    
+
+.active:hover {
+    background-color: rgb(43, 116, 199);
+}
 
 
 .header-text {
