@@ -13,6 +13,7 @@ li{
 }
 a {
     text-decoration: none;
+    transation: 0.25s;
 }
 
 
@@ -71,6 +72,7 @@ header{
     border-radius: 3rem;
     margin: 0 0.4em;
     padding: 0.4em 0.9em;
+    transation: 0.25s;
 }
 
 .active:hover {
